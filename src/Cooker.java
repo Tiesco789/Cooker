@@ -15,7 +15,7 @@ public class Cooker {
         System.out.println("You have " + eggsAmount + " eggs");
         // eggs done
 
-        // System.out.println("How much milk you have?");
+        System.out.println("How much milk you have?");
         userInput = new Scanner(System.in);
         milkAmount = userInput.nextInt();
         // System.out.println("You have " + milkAmount + " ml milk");
